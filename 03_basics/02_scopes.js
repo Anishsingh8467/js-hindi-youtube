@@ -46,13 +46,14 @@ if (true) {
 
 console.log(addone(5))
 
-function addone(num){
-    return num + 1
+function addone(num){ 
+    return num + 1     ///isme declaration se pahle acsses ho jata hai 
 }
 
-
+/// this is hosting 
 
 addTwo(5)
 const addTwo = function(num){
-    return num + 2
+    return num + 2       // isme nahi hota hai
+    
 }
