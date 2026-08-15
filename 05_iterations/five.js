@@ -1,6 +1,6 @@
 const coding = ["js", "ruby", "java", "python", "cpp"]
 
-// coding.forEach( function (val){
+// coding.forEach( function (val){   //*** for each caal back function ke liye use hota ha */
 //     console.log(val);
 // } )
 
